@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "firmware_url": "https://JYMPCB.github.io/baliza-ota-feed/latest.bin",
-  "notes": "Release 1.0.0",
-  "sha256": "c1efaf644809671faa473de95d0a0e3872bb2ca1c78c0cd6467649aafdd57512"
+  "notes": "Release 1.0.1",
+  "sha256": "00887831ecc71f5a3f6500ee60210e24f2f0805c39056c04abc6622b89864ec8"
 }
