@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "firmware_url": "https://JYMPCB.github.io/baliza-ota-feed/versions/Baliza_cono-1.0.6.bin",
-  "notes": "Release 1.0.6",
-  "sha256": "4df6a12aaecbe6597d68abd4fe465ef530cb91f1bd7202bf013c73b9bd9f6abc"
+  "version": "1.0.7",
+  "firmware_url": "https://JYMPCB.github.io/baliza-ota-feed/versions/Baliza_cono-1.0.7.bin",
+  "notes": "Release 1.0.7",
+  "sha256": "8a15e592e316af5171e02b6547f9995ce62f629f0fedf937d8281e7067306857"
 }
